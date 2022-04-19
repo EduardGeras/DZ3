@@ -9,7 +9,8 @@ public class Main {
         double k = 88.347;
         char h = 35;
         char j = '#';
-        boolean s = 11 > 8;
+        boolean s = true;
+        s = 11 > 8;
         System.out.println(h + " = " + j);
 
         // Задание 2
